@@ -1,0 +1,23 @@
+body {
+    background-color: #15202b;
+    margin: 0%;
+    padding: 0%;
+    font-family: system-ui;
+    display: grid;
+    min-height: 100vh;
+    place-content: center;
+}
+
+.tw-mainSection {
+    display: flex;
+    flex-direction: column;
+    background-color: #192734;
+    border-radius: 20px;
+}
+
+.tw-mainSection h1 {
+    font-size: 20px;
+    color: #fff;
+    padding-bottom: 15px;
+    margin: 20px 0 0 15px;
+}
